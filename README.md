@@ -2,8 +2,13 @@
 * 影片是使用Angular，對Angular不熟悉沒關係，大概了解一下跟著影片做就可以了的
   
 todo的首頁 
+
 ![alt tag](https://github.com/cloud81115/Build-a-To-Do-List-Angular-and-Django-Rest-Framework/blob/master/pic/ss1.PNG)
-api
+
+顯示api
+
 ![alt tag](https://github.com/cloud81115/Build-a-To-Do-List-Angular-and-Django-Rest-Framework/blob/master/pic/ss2.PNG)
+
 第一筆資料
+
 ![alt tag](https://github.com/cloud81115/Build-a-To-Do-List-Angular-and-Django-Rest-Framework/blob/master/pic/ss3.PNG)
